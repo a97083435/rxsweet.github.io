@@ -83,16 +83,16 @@
 <p>GitHub鏡像站</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">https://hub.nuaa.cf/sweetrx</span><br><span class="line">https://hub.yzuu.cf/sweetrx</span><br><span class="line">https://gh.sweetrx.eu.org/sweetrx</span><br><span class="line">https://hub.sweetrx.eu.org/sweetrx</span><br></pre></td></tr></table></figure>
 <p>加速下载站</p>
-<p>自己使用<br><code>https://raw.sweetrx.eu.org/rxsweet/proxies/main/sub/free.yaml</code><br><code>https://ghraw.eu.org/rxsweet/proxies/main/sub/free.yaml</code><br><code>https://p.sweetrx.eu.org</code></p>
+<p>自己使用<br><code>https://raw.rxsub.onflashdrive.app/rxsweet/proxies/main/sub/free.yaml</code><br><code>https://ghraw.eu.org/rxsweet/proxies/main/sub/free.yaml</code><br><code>https://p.sweetrx.eu.org</code></p>
 <p>韩国: <code>https://ghproxy.com/</code> + 完整地址</p>
 <p>香港: <code>https://raw.iqiq.io/rxsweet/proxies/main/sub/rx.yaml</code></p>
 <p>新加坡: <code>https://raw.kgithub.com/rxsweet/proxies/main/sub/rx.yaml</code></p>
 <span id="more"></span>
-<h3 id="Android-Clash"><a href="#Android-Clash" class="headerlink" title="- Android Clash"></a>- Android Clash</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">#fetchProxy</span><br><span class="line">https://sub.sweetrx.eu.org/sub/rx.yaml</span><br><span class="line">https://sub.sweetrx.eu.org/sub/srx.yaml</span><br><span class="line">https://sub.sweetrx.eu.org/sub/mining.yaml</span><br><span class="line">https://sub.sweetrx.eu.org/sub/free.yaml</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<h3 id="Android-Clash"><a href="#Android-Clash" class="headerlink" title="- Android Clash"></a>- Android Clash</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">#fetchProxy</span><br><span class="line">https://rxsub.onflashdrive.app/sub/rx.yaml</span><br><span class="line">https://rxsub.onflashdrive.app/sub/srx.yaml</span><br><span class="line">https://rxsub.onflashdrive.app/sub/mining.yaml</span><br><span class="line">https://rxsub.onflashdrive.app/sub/free.yaml</span><br><span class="line"></span><br></pre></td></tr></table></figure>
 <p>备用</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">https://rxsub.3d.tc/sub/rx.yaml</span><br><span class="line">https://rxsub.eu.org/sub/rx.yaml</span><br><span class="line">https://ghproxy.com/https://raw.githubusercontent.com/rxsweet/proxies/main/sub/rx.yaml</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">https://rxsub.3d.tc/sub/free.yaml</span><br><span class="line">https://rxsub.app.tc/sub/free.yaml</span><br><span class="line">https://rxsub.coms.hk/sub/free.yaml</span><br><span class="line">https://sub.rxsub.rr.nu/sub/free.yaml</span><br><span class="line"></span><br></pre></td></tr></table></figure>
 
-<h3 id="WinXray-sub-base64"><a href="#WinXray-sub-base64" class="headerlink" title="- WinXray sub(base64)"></a>- WinXray sub(base64)</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">优秀 - 优先使用</span><br><span class="line"></span><br><span class="line">#fetchProxy</span><br><span class="line">https://sub.sweetrx.eu.org/sub/rx64.txt</span><br><span class="line">https://sub.sweetrx.eu.org/sub/srx64.txt</span><br><span class="line">https://sub.sweetrx.eu.org/sub/mining64.txt</span><br><span class="line">https://sub.sweetrx.eu.org/sub/free64.txt</span><br><span class="line">#good list</span><br><span class="line">https://sub.sweetrx.eu.org/sub/sources/sublist_mining.txt</span><br><span class="line">https://sub.sweetrx.eu.org/sub/sources/subList_dynamic.txt</span><br></pre></td></tr></table></figure>
+<h3 id="WinXray-sub-base64"><a href="#WinXray-sub-base64" class="headerlink" title="- WinXray sub(base64)"></a>- WinXray sub(base64)</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">优秀 - 优先使用</span><br><span class="line"></span><br><span class="line">#fetchProxy</span><br><span class="line">https://rxsub.onflashdrive.app/sub/rx64.txt</span><br><span class="line">https://rxsub.onflashdrive.app/sub/srx64.txt</span><br><span class="line">https://rxsub.onflashdrive.app/sub/mining64.txt</span><br><span class="line">https://rxsub.onflashdrive.app/sub/free64.txt</span><br><span class="line">#good list</span><br><span class="line">https://rxsub.onflashdrive.app/sub/sources/sublist_mining.txt</span><br><span class="line">https://rxsub.onflashdrive.app/sub/sources/subList_dynamic.txt</span><br></pre></td></tr></table></figure>
 
 <h3 id="proxy-POOL"><a href="#proxy-POOL" class="headerlink" title="- proxy POOL"></a>- proxy POOL</h3><p>  –  clash订阅地址加上”&#x2F;clash&#x2F;config” &amp;”&#x2F;clash&#x2F;proxies”  clash都可用<br>  –  WinXray支持的后缀：需带”&#x2F;proxies?c&#x3D;US,HK,TW,KR,JP,SG”</p>
   <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">pool使用方法</span><br><span class="line">/clash/proxies?c=CN,HK,TW,JP,US,SG,&amp;type=ss</span><br><span class="line">/clash/proxies?c=HK,TW,JP,US</span><br></pre></td></tr></table></figure>
@@ -114,7 +114,7 @@
 <li><a href="https://sub-web.netlify.app/">https://sub-web.netlify.app/</a> </li>
 <li><a href="https://subcon.dlj.tf/">https://subcon.dlj.tf/</a></li>
 </ul>
-<h1 id="测速软件"><a href="#测速软件" class="headerlink" title="测速软件"></a>测速软件</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">https://raw.sweetrx.eu.org/rxsweet/all/main/githubTools/nodesCatch2022-12-24.rar</span><br><span class="line">https://ghproxy.com/https://raw.githubusercontent.com/rxsweet/all/main/githubTools/nodesCatch2022-12-24.rar</span><br><span class="line">https://raw.githubusercontents.com/rxsweet/all/main/githubTools/nodesCatch2022-12-24.rar</span><br><span class="line">https://raw.fastgit.org/rxsweet/all/main/githubTools/nodesCatch2022-12-24.rar</span><br></pre></td></tr></table></figure>
+<h1 id="测速软件"><a href="#测速软件" class="headerlink" title="测速软件"></a>测速软件</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">https://raw.rxsub.onflashdrive.app/rxsweet/all/main/githubTools/nodesCatch2022-12-24.rar</span><br><span class="line">https://raw.rxsub.rr.nu/rxsweet/all/main/githubTools/nodesCatch2022-12-24.rar</span><br><span class="line">https://raw.rxsub.coms.hk/rxsweet/all/main/githubTools/nodesCatch2022-12-24.rar</span><br><span class="line">https://ghproxy.com/https://raw.githubusercontent.com/rxsweet/all/main/githubTools/nodesCatch2022-12-24.rar</span><br><span class="line">https://raw.githubusercontents.com/rxsweet/all/main/githubTools/nodesCatch2022-12-24.rar</span><br><span class="line">https://raw.fastgit.org/rxsweet/all/main/githubTools/nodesCatch2022-12-24.rar</span><br></pre></td></tr></table></figure>
 <h1 id="测速地址"><a href="#测速地址" class="headerlink" title="测速地址"></a>测速地址</h1><p>谷歌搜索：vps looking glass</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">其他测速地址</span><br><span class="line">DE - Frankfurt</span><br><span class="line">https://lim-speedtest.lg.bluevps.com/10MB.bin</span><br><span class="line">UK - London</span><br><span class="line">https://lon-speedtest.lg.bluevps.com/10MB.bin</span><br><span class="line">NL - Amsterdam</span><br><span class="line">https://ams-speedtest.lg.bluevps.com/10MB.bin</span><br><span class="line">FR - Strasbourg</span><br><span class="line">https://sbg-speedtest.lg.bluevps.com/10MB.bin</span><br><span class="line">IT - Palermo</span><br><span class="line">https://pmo-speedtest.lg.bluevps.com/10MB.bin</span><br><span class="line">US - Ashburn</span><br><span class="line">https://ash-speedtest.lg.bluevps.com/10MB.bin</span><br><span class="line">BG - Sofia</span><br><span class="line">https://sof-speedtest.lg.bluevps.com/10MB.bin</span><br></pre></td></tr></table></figure>
 
@@ -812,7 +812,7 @@
 <p><a href="https://www.gugeapps.net/">https://www.gugeapps.net/</a>            - 要验证码</p>
 <hr>
 <p>ce88dc8671ffebefd8c599ade0533e37bookmark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</p>
-<p>Violentmonkey<br><a href="https://app.koofr.net/dav/Koofr/all/">https://app.koofr.net/dav/Koofr/all/</a><br><a href="mailto:&#x73;&#x77;&#x65;&#101;&#116;&#x72;&#x78;&#64;&#x70;&#109;&#46;&#109;&#x65;">&#x73;&#x77;&#x65;&#101;&#116;&#x72;&#x78;&#64;&#x70;&#109;&#46;&#109;&#x65;</a><br>u7ao qpaa 3m75 jdvg</p>
+<p>Violentmonkey<br><a href="https://app.koofr.net/dav/Koofr/all/">https://app.koofr.net/dav/Koofr/all/</a><br><a href="mailto:&#x73;&#119;&#101;&#x65;&#x74;&#x72;&#120;&#64;&#112;&#x6d;&#x2e;&#109;&#x65;">&#x73;&#119;&#101;&#x65;&#x74;&#x72;&#120;&#64;&#112;&#x6d;&#x2e;&#109;&#x65;</a><br>u7ao qpaa 3m75 jdvg</p>
 ]]></content>
       <categories>
         <category>软件</category>
@@ -1468,8 +1468,8 @@
     <url>/2022/06/06/2022-06-06-%E8%BD%AF%E4%BB%B6-apk-%E8%87%AA%E5%8A%A8%E8%B7%B3%E8%BF%87APP%E5%90%AF%E5%8A%A8%E5%B9%BF%E5%91%8A/</url>
     <content><![CDATA[<h1 id="GKD"><a href="#GKD" class="headerlink" title="GKD"></a>GKD</h1><p>GKD（又称搞快点，详情请戳 作者项目地址 <a href="https://github.com/gkd-kit/gkd">https://github.com/gkd-kit/gkd</a> ）<br>是一款免费开源简洁多规则的自动跳过广告的软件。<br>简而言之，基于预设的定时更新订阅规则+快照功能，<br>实现识别并自动点击跳过任何开屏广告及点击关闭应用内部任何弹窗广告，<br>如关闭某些APP开屏和内含推荐广告位（主流的基本上已支持）。</p>
 <p>使用说明：<br>首次使用需要给予无障碍和悬浮窗权限（具体自搜），所提供的默认规则支持在线更新订阅，基本常用主流熟知的APP对应都有不同的规则开关可自主选择。具体请戳：规则更新动态。自动点击记录事件可在软件主页中翻查。<br>若想不被频繁误杀、无效又或者是得到更准确的跳过识别，可在高级模式中开启shi授权（但对小白用户不太友好）。其余功能请自行体验。。。</p>
-<p>若需要一个仅启用开屏广告规则的订阅，可以将默认订阅删除后, 导入此订阅, 订阅链接如下：<br><a href="https://registry.npmmirror.com/@gkd-kit/subscription/latest/files/dist/gkd.openad.json">https://registry.npmmirror.com/@gkd-kit/subscription/latest/files/dist/gkd.openad.json</a></p>
-<p>软件下载：</p>
+<p>若需要一个仅启用开屏广告规则的订阅，可以将默认订阅删除后, 导入此订阅, 订阅链接如下：<br><a href="https://registry.npmmirror.com/@adpro/gkd_subscription/latest/files/dist/Adpro_gkd.json5">https://registry.npmmirror.com/@adpro/gkd_subscription/latest/files/dist/Adpro_gkd.json5</a><br><a href="https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIsouler_gkd.json5">https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIsouler_gkd.json5</a></p>
+<p><strong>注意：抖音和头条总是跳转到“心跳过快”问题，在规则里面点‘在此应用的禁用’</strong><br>软件下载：</p>
 <ul>
 <li><a href="https://www.lanzoui.com/b04awcc2d">https://www.lanzoui.com/b04awcc2d</a>	提取码：bvil</li>
 </ul>
@@ -2717,18 +2717,19 @@ OK,大功告成！
 <li><a href="https://cowtransfer.com/mobile#/pages/receive-entry/index?s=b5812e7b08c14a">https://cowtransfer.com/mobile#/pages/receive-entry/index?s=b5812e7b08c14a</a></li>
 </ul>
 <span id="more"></span>
-<h3 id="2-五音助手"><a href="#2-五音助手" class="headerlink" title="2.五音助手"></a>2.五音助手</h3><p>官网</p>
-<p><a href="https://www.sixyin.com/42.html">https://www.sixyin.com/42.html</a></p>
-<p><a href="https://soso.lanzoux.com/b00nbytqj">https://soso.lanzoux.com/b00nbytqj</a></p>
-<h3 id="3-Listen-1-免费开源的音乐聚合搜索播放工具-多平台通用"><a href="#3-Listen-1-免费开源的音乐聚合搜索播放工具-多平台通用" class="headerlink" title="3.Listen 1 - 免费开源的音乐聚合搜索播放工具|多平台通用"></a>3.Listen 1 - 免费开源的音乐聚合搜索播放工具|多平台通用</h3><p>聚合搜索主流的音乐平台: 网易云音乐、QQ音乐、酷狗、酷我音乐</p>
+
+
+<h3 id="2-Listen-1-免费开源的音乐聚合搜索播放工具-多平台通用"><a href="#2-Listen-1-免费开源的音乐聚合搜索播放工具-多平台通用" class="headerlink" title="2.Listen 1 - 免费开源的音乐聚合搜索播放工具|多平台通用"></a>2.Listen 1 - 免费开源的音乐聚合搜索播放工具|多平台通用</h3><p>聚合搜索主流的音乐平台: 网易云音乐、QQ音乐、酷狗、酷我音乐</p>
 <p>「Github 开源」<br><a href="https://github.com/listen1">https://github.com/listen1</a></p>
 <p>下载地址:</p>
 <p>官网: <a href="https://listen1.github.io/listen1/">https://listen1.github.io/listen1/</a></p>
 <p>蓝奏云(Win、安卓): <a href="https://pan.lanzouj.com/b01dly9cb">https://pan.lanzouj.com/b01dly9cb</a></p>
-<h3 id="4-LX-Music-落雪音乐助手"><a href="#4-LX-Music-落雪音乐助手" class="headerlink" title="4.LX Music - 落雪音乐助手"></a>4.LX Music - 落雪音乐助手</h3><p>一个免费&amp;开源的音乐查找工具</p>
+<h3 id="3-LX-Music-落雪音乐助手"><a href="#3-LX-Music-落雪音乐助手" class="headerlink" title="3.LX Music - 落雪音乐助手"></a>3.LX Music - 落雪音乐助手</h3><p>一个免费&amp;开源的音乐查找工具</p>
 <p>「Github 开源」<br><a href="https://github.com/lyswhut/lx-music-mobile">https://github.com/lyswhut/lx-music-mobile</a></p>
-<p>下载地址:<br><a href="https://sub.sweetrx.ir/music/%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%901.2.0-beta.22-arm64-v8a.apk">洛雪音乐1.2.0</a><br><a href="https://sub.sweetrx.ir/music/sixyin-music-source-v1.0.7">sixyin-music-source-v1.0.7.js</a></p>
-<p>使用方法: 需要点击设置–音乐来源–找到下载好的’sixyin-music-source-v1.0.7.js’–导入，最后在导入后的音乐来源前面打对钩，就可以使用了</p>
+<p>下载地址:<br><a href="https://gh.sixyin.com/https://github.com/lyswhut/lx-music-mobile/releases/download/v1.3.0/lx-music-mobile-v1.3.0-universal.apk">洛雪音乐1.3.0 - 地址1</a><br><a href="https://hub.rxsub.coms.hk/lyswhut/lx-music-mobile/releases/download/v1.3.0/lx-music-mobile-v1.3.0-universal.apk">洛雪音乐1.3.0 - 地址2</a><br><a href="https://hub.rxsub.rr.nu/lyswhut/lx-music-mobile/releases/download/v1.3.0/lx-music-mobile-v1.3.0-universal.apk">洛雪音乐1.3.0 - 地址3</a><br><a href="https://hub.rxsub.onflashdrive.app/lyswhut/lx-music-mobile/releases/download/v1.3.0/lx-music-mobile-v1.3.0-universal.apk">洛雪音乐1.3.0 - 地址4</a></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">音源：</span><br><span class="line">https://rxsub.coms.hk/music/野花音源.js</span><br><span class="line">https://rxsub.coms.hk/music/野草音源.js</span><br><span class="line">https://rxsub.coms.hk/music/nya.js</span><br><span class="line">https://rxsub.coms.hk/music/sixyin-music-source-v1.1.0.js</span><br><span class="line">https://rxsub.coms.hk/music/sixyin-music-source-v1.0.7.js</span><br></pre></td></tr></table></figure>
+
+<p>使用方法: 需要点击设置–音乐来源–导入’在线导入’，最后在导入后的音乐来源前面打对钩，就可以使用了</p>
 <p>官网: <a href="https://lxmusic.toside.cn/">https://lxmusic.toside.cn/</a></p>
 <p>手机版<br><a href="https://github.com/lyswhut/lx-music-mobile/releases">https://github.com/lyswhut/lx-music-mobile/releases</a></p>
 <p>网盘下载<br><a href="https://www.lanzoui.com/b0bf2cfa/">https://www.lanzoui.com/b0bf2cfa/</a> 密码：glqw</p>
@@ -2738,7 +2739,9 @@ OK,大功告成！
 <h3 id="6-MusicFree"><a href="#6-MusicFree" class="headerlink" title="6.MusicFree"></a>6.MusicFree</h3><p>一个插件化、定制化、无广告的开源音乐播放器</p>
 <p><a href="http://musicfree.upup.fun/">MusicFree官网</a><br><a href="https://github.com/maotoumao/MusicFree">MusicFree官方Github</a></p>
 <p><a href="https://wwzb.lanzoue.com/iOm7l0ne1vza">MusicFree下载地址1：</a><br><a href="https://wwzb.lanzoue.com/b041rnbwj">MusicFree下载地址2：</a></p>
-<p><a href="https://sub.sweetrx.ir/music/plugins.json">自用 plugins 接口：</a></p>
+<p>[自用 plugins 接口：]</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">https://rxsub.coms.hk/music/plugins.json</span><br></pre></td></tr></table></figure>
+
 <h3 id="7-QQ音乐"><a href="#7-QQ音乐" class="headerlink" title="7.QQ音乐"></a>7.QQ音乐</h3><p><a href="https://yoyodadada.lanzouw.com/b07psr3a">yoyodadada 收集 - 蓝凑云</a></p>
 <h2 id="二、windows版"><a href="#二、windows版" class="headerlink" title="二、windows版"></a>二、windows版</h2><h3 id="1-洛雪音乐助手-开源"><a href="#1-洛雪音乐助手-开源" class="headerlink" title="1.洛雪音乐助手 -开源"></a>1.洛雪音乐助手 -开源</h3><p>作者开源 <a href="https://github.com/lyswhut/lx-music-mobile">https://github.com/lyswhut/lx-music-mobile</a></p>
 <p><a href="https://www.6yit.com/114.html">https://www.6yit.com/114.html</a></p>
@@ -2746,7 +2749,7 @@ OK,大功告成！
 <h3 id="2-MusicTools-付费无损音乐下载神器"><a href="#2-MusicTools-付费无损音乐下载神器" class="headerlink" title="2.MusicTools_付费无损音乐下载神器"></a>2.MusicTools_付费无损音乐下载神器</h3><p>官网：<a href="https://www.whg6.com/html/musictools/">https://www.whg6.com/html/musictools/</a></p>
 <p><a href="https://www.423down.com/9003.html">https://www.423down.com/9003.html</a></p>
 <p><a href="https://423down.lanzouh.com/iVz3h05k2ena">https://423down.lanzouh.com/iVz3h05k2ena</a></p>
-<h3 id="3-Listen-1-免费开源的音乐聚合搜索播放工具-多平台通用-1"><a href="#3-Listen-1-免费开源的音乐聚合搜索播放工具-多平台通用-1" class="headerlink" title="3.Listen 1 - 免费开源的音乐聚合搜索播放工具|多平台通用"></a>3.Listen 1 - 免费开源的音乐聚合搜索播放工具|多平台通用</h3><p>聚合搜索主流的音乐平台: 网易云音乐、QQ音乐、酷狗、酷我音乐</p>
+<h3 id="3-Listen-1-免费开源的音乐聚合搜索播放工具-多平台通用"><a href="#3-Listen-1-免费开源的音乐聚合搜索播放工具-多平台通用" class="headerlink" title="3.Listen 1 - 免费开源的音乐聚合搜索播放工具|多平台通用"></a>3.Listen 1 - 免费开源的音乐聚合搜索播放工具|多平台通用</h3><p>聚合搜索主流的音乐平台: 网易云音乐、QQ音乐、酷狗、酷我音乐</p>
 <p>「Github 开源」<br><a href="https://github.com/listen1">https://github.com/listen1</a></p>
 <p>下载地址:</p>
 <p>官网: <a href="https://listen1.github.io/listen1/">https://listen1.github.io/listen1/</a></p>
